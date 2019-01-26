@@ -1,7 +1,4 @@
-# Portfolio_DrivenData.org
-DrivenData.org Competitions
-
-#Warm Up: Predict Blood Donations
+# Warm Up: Predict Blood Donations
 #HOSTED BY DRIVENDATA, for more details visit [DrivenData.org](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/page/5/).
 
 
