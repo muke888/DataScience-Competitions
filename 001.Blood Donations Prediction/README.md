@@ -1,4 +1,6 @@
 # Warm Up: Predict Blood Donations
+# Competition Result: 64th place out of 5663 competitors (TOP 1.13%)
+
 #HOSTED BY DRIVENDATA, for more details visit [DrivenData.org](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/page/5/).
 
 
