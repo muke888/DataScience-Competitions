@@ -1,5 +1,5 @@
 # Richter's Predictor: Modeling Earthquake Damage
-# Competition Result: TBA
+# Competition Result: TBA (Current rank 146/3146 as of 13/09/20)
 
 #HOSTED BY DRIVENDATA, for more details visit [DrivenData.org](https://www.drivendata.org/competitions/57/nepal-earthquake/).
 
