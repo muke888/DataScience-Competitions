@@ -1,5 +1,5 @@
 # Richter's Predictor: Modeling Earthquake Damage
-# Competition Result: TBA (Current rank 146/3146 as of 13/09/20)
+# Competition Result: TBA (Current rank 39/3188 as of 27/09/20)
 
 #HOSTED BY DRIVENDATA, for more details visit [DrivenData.org](https://www.drivendata.org/competitions/57/nepal-earthquake/).
 
@@ -12,4 +12,4 @@ The data was collected through surveys by Kathmandu Living Labs and the Central 
 
 This survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.
 
-![alt text](https://github.com/muke888/DataScience-Competitions/blob/master/002.Richter's%20Predictor:%20Modeling%20Earthquake%20Damage/130929status.JPG)
+![alt text](https://github.com/muke888/DataScience-Competitions/blob/master/002.Richter's%20Predictor:%20Modeling%20Earthquake%20Damage/27.09.20.JPG)
