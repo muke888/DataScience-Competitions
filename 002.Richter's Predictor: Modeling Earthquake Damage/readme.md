@@ -13,3 +13,6 @@ The data was collected through surveys by Kathmandu Living Labs and the Central 
 This survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.
 
 ![alt text](https://github.com/muke888/DataScience-Competitions/blob/master/002.Richter's%20Predictor:%20Modeling%20Earthquake%20Damage/Results%20as%20at%2002.12.20.JPG)
+
+
+![alt text](https://github.com/muke888/DataScience-Competitions/blob/master/002.Richter's%20Predictor:%20Modeling%20Earthquake%20Damage/Rank%20as%20of%2022.12.21.png)
